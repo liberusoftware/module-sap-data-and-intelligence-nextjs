@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-data-and-intelligence-nextjs",
+  "capabilityKey": "planned:sap:data-and-intelligence",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-sap-data-and-intelligence-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/sap/nextjs/data-and-intelligence.md",
+  "presentationPlan": "projects/sap/nextjs/data-and-intelligence.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
